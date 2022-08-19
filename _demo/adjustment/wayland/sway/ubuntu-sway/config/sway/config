@@ -1,0 +1,40 @@
+
+
+################################################################################
+### Head: Note
+##
+
+##
+## Default config for sway
+##
+## Copy this to ~/.config/sway/config and edit it to your liking.
+##
+## Read `man 5 sway` for a complete reference.
+##
+
+##
+### Tail: Note
+################################################################################
+
+
+################################################################################
+### Head: Profile / Select
+##
+
+#set $use_profile ubuntu-sway
+set $use_profile sway-profile-main
+
+##
+### Tail: Profile / Select
+################################################################################
+
+
+################################################################################
+### Head: Profile / Include
+##
+
+include $HOME/.config/sway/profile/$use_profile/profile.conf
+
+##
+### Tail: Profile / Include
+################################################################################
