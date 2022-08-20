@@ -1,0 +1,31 @@
+
+
+## Download
+
+git
+wget
+curl
+
+## Terminal
+
+sakura
+xfce4-terminal
+
+
+## File Manager
+
+pcmanfm-qt
+thunar
+
+
+## Volume Control
+
+mate-media
+
+
+## Text Editor
+
+mousepad
+
+
+
