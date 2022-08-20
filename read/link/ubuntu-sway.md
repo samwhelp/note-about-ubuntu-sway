@@ -1,6 +1,6 @@
 ---
 title: ubuntu-sway
-nav_order: 9020
+nav_order: 9010
 has_children: false
 parent: 連結
 ---

@@ -1,6 +1,6 @@
 ---
 title: i3wm
-nav_order: 9010
+nav_order: 9020
 has_children: false
 parent: 連結
 ---
