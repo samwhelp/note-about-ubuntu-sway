@@ -286,18 +286,18 @@
 
 | Workspace | Title |
 | --------- | ----- |
-| 1         | Term  |
+| 1         | File  |
 | 2         | Edit  |
 | 3         | Web   |
-| 4         | File  |
+| 4         | Term  |
 | 5         | Misc  |
 
 | Keybind   | Action                       | Command                           |
 | --------- | ---------------------------- | --------------------------------- |
-| `Alt + 1` | Switch to Workspace 1 (Term) | `workspace number 1` (sway builtin) |
+| `Alt + 1` | Switch to Workspace 1 (File) | `workspace number 1` (sway builtin) |
 | `Alt + 2` | Switch to Workspace 2 (Edit) | `workspace number 2` (sway builtin) |
 | `Alt + 3` | Switch to Workspace 3 (Web)  | `workspace number 3` (sway builtin) |
-| `Alt + 4` | Switch to Workspace 4 (File) | `workspace number 4` (sway builtin) |
+| `Alt + 4` | Switch to Workspace 4 (Term) | `workspace number 4` (sway builtin) |
 | `Alt + 5` | Switch to Workspace 5 (Misc) | `workspace number 5` (sway builtin) |
 
 
@@ -330,8 +330,8 @@
 
 | Keybind   | Action                                       | Command                                             |
 | --------- | -------------------------------------------- | --------------------------------------------------- |
-| `Win + 1` | Window(Container) Move to Workspace 1 (Term) | `move container to workspace number 1` (sway builtin) |
+| `Win + 1` | Window(Container) Move to Workspace 1 (File) | `move container to workspace number 1` (sway builtin) |
 | `Win + 2` | Window(Container) Move to Workspace 2 (Edit) | `move container to workspace number 2` (sway builtin) |
 | `Win + 3` | Window(Container) Move to Workspace 3 (Web)  | `move container to workspace number 3` (sway builtin) |
-| `Win + 4` | Window(Container) Move to Workspace 4 (File) | `move container to workspace number 4` (sway builtin) |
+| `Win + 4` | Window(Container) Move to Workspace 4 (Term) | `move container to workspace number 4` (sway builtin) |
 | `Win + 5` | Window(Container) Move to Workspace 5 (Misc) | `move container to workspace number 5` (sway builtin) |
