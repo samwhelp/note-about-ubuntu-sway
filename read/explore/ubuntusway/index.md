@@ -1,8 +1,20 @@
+---
+title: ubuntusway
+nav_order: 8000
+has_children: false
+parent: 探索
+---
 
+
+# ubuntusway
+
+執行
 
 ``` sh
 dpkg -l '*ubuntusway*'
 ```
+
+顯示
 
 ```
 Desired=Unknown/Install/Remove/Purge/Hold
