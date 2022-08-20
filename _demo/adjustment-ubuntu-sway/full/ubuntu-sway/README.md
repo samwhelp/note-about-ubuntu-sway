@@ -1,12 +1,12 @@
 
-# I3WM / Config / User
+# Sway / Config / User
 
 
 ## Subject
 
 * [Spec](#spec)
-* [User Config File Path](#user-config-file-path)
 * [User Config Dir Path](#user-config-dir-path)
+* [User Config File Path](#user-config-file-path)
 * [Test Command](#test-command)
 
 
@@ -15,14 +15,10 @@
 * [Keybind](spec-keybind.md)
 * [Mousebind](spec-mousebind.md)
 
-## User Config File Path
-
-* [~/.config/i3/config](./config/i3/config)
-
 
 ## User Config Dir Path
 
-* [~/.config/i3](./config/i3)
+* [~/.config/sway](./config/sway)
 
 run
 
@@ -30,15 +26,11 @@ run
 tree --dirsfirst ~/.config/i3
 ```
 
-show
 
-```
-/home/user/.config/i3
-├── autostart
-└── config
+## User Config File Path
 
-0 directories, 2 files
-```
+* [~/.config/sway/config](./config/sway/config)
+
 
 ## Test Command
 
