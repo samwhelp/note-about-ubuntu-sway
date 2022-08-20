@@ -12,6 +12,13 @@
 ## Read `man 5 sway` for a complete reference.
 ##
 
+
+##
+## ## Docs
+##
+## * i3 User’s Guide / [4.1. Include directive](https://i3wm.org/docs/userguide.html#include)
+##
+
 ##
 ### Tail: Note
 ################################################################################
@@ -33,7 +40,11 @@ set $use_profile sway-profile-main
 ### Head: Profile / Include
 ##
 
-include $HOME/.config/sway/profile/$use_profile/profile.conf
+##
+## include $HOME/.config/sway/profile/$use_profile/profile.conf
+##
+
+include ./profile/$use_profile/profile.conf
 
 ##
 ### Tail: Profile / Include
