@@ -12,6 +12,11 @@ has_children: true
 * [Ubuntu Sway Remix](https://ubuntusway.com/)
 * GitHub / [Ubuntu-Sway](https://github.com/Ubuntu-Sway)
 * [https://downloads.ubuntusway.com/](https://downloads.ubuntusway.com/)
+* PPA Search: [sway](https://launchpad.net/ubuntu/+ppas?name_filter=sway)
+* PPA / [Ubuntu Sway Remix Stable](https://launchpad.net/~ubuntusway-dev/+archive/ubuntu/stable)
+* PPA / [Ubuntu Sway Remix Unstable](https://launchpad.net/~ubuntusway-dev/+archive/ubuntu/dev)
+* PPA / [“Ubuntu Sway Remix” team](https://launchpad.net/~ubuntusway-dev)
+* PPA / [Sunderland93](https://launchpad.net/~samoilov-lex)
 
 
 ## Sway
