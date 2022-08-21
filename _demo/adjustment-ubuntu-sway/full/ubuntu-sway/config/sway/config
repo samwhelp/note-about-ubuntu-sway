@@ -41,10 +41,10 @@ set $use_profile sway-profile-main
 ##
 
 ##
-## include $HOME/.config/sway/profile/$use_profile/profile.conf
+## include $HOME/.config/sway/section/profile/$use_profile/init.conf
 ##
 
-include ./profile/$use_profile/profile.conf
+include ./section/profile/$use_profile/init.conf
 
 ##
 ### Tail: Profile / Include
