@@ -9,14 +9,13 @@ grand_parent: 使用情境
 
 # 開啟應用程式 (Wofi)
 
-* [設定片段](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Application/Keybind/Rofi.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Application/Wofi.conf)
 
 
 | 按鍵組合          | 功能                           | 執行指令                        |
 | ----------------- | ------------------------------ | ------------------------------- |
-| `Alt + Shift + d` | 開啟 Rofi (可用應用程式列表)   | `rofi -show drun -show-icons`   |
-| `Alt + Shift + w` | 開啟 Rofi (已經開啟的視窗列表) | `rofi -show window -show-icons` |
-| `Alt + Shift + r` | 開啟 Rofi (可用指令列表)       | `rofi -show run`                |
+| `Alt + Shift + d` | 開啟 Rofi (可用應用程式列表)   | `wofi --show drun`   |
+| `Alt + Shift + r` | 開啟 Rofi (可用指令列表)       | `wofi --show run`                |
 
 
 ## 參考連結

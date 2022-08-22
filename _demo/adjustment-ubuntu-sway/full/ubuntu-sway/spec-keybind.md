@@ -56,7 +56,7 @@
 
 | Keybind           | Action      | Command                         |
 | ----------------- | ----------- | ------------------------------- |
-| `Alt + Shift + d` | Launch Wofi | `wofi --show drun -show-icons`   |
+| `Alt + Shift + d` | Launch Wofi | `wofi --show drun`   |
 | `Alt + Shift + r` | Launch Wofi | `wofi --show run`                |
 
 
