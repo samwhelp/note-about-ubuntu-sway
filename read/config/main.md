@@ -9,7 +9,7 @@ parent: 設定
 
 ## 設定檔專案
 
-* [main](https://github.com/samwhelp/note-about-ubuntu-sway/tree/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway)
+* [ubuntu-sway](https://github.com/samwhelp/note-about-ubuntu-sway/tree/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway)
 
 ## 設定檔路徑
 
