@@ -17,8 +17,8 @@ grand_parent: 使用情境
 | `Alt + Enter`     | 開啟 Terminal | `sakura`         |
 | `Alt + Shift + a` | 開啟 Terminal | `sakura`         |
 | `Alt + Ctrl + a`  | 開啟 Terminal | `xfce4-terminal` |
-| `Alt + Shift + t` | 開啟 Terminal | `xterm`          |
-| `Alt + Ctrl + t`  | 開啟 Terminal | `urxvt`          |
+| `Alt + Shift + t` | 開啟 Terminal | `foot`          |
+| `Alt + Ctrl + t`  | 開啟 Terminal | `kitty`          |
 
 
 ## 參考連結

@@ -46,8 +46,8 @@
 | `Alt + Enter`     | Launch Terminal | `sakura`         |
 | `Alt + Shift + a` | Launch Terminal | `sakura`         |
 | `Alt + Ctrl + a`  | Launch Terminal | `xfce4-terminal` |
-| `Alt + Shift + t` | Launch Terminal | `xterm`          |
-| `Alt + Ctrl + t`  | Launch Terminal | `urxvt`          |
+| `Alt + Shift + t` | Launch Terminal | `foot`          |
+| `Alt + Ctrl + t`  | Launch Terminal | `kitty`          |
 
 
 ## Launch Wofi
