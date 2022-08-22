@@ -25,10 +25,10 @@ grand_parent: 使用情境
 
 | 按鍵組合      | 功能                               | 執行指令                                  |
 | ------------- | ---------------------------------- | ----------------------------------------- |
-| `Win + Tab`   | 在所有的畫面布局狀態切換           | `layout toggle all` (i3 內建)             |
-| `All + Tab`   | 在「splitv」和「splith」之間切換   | `layout toggle split` (i3 內建)           |
-| `All + grave` | 在「tabbed」和「stacking」之間切換 | `layout toggle tabbed stacking` (i3 內建) |
-| `Win + w`     | 在「tabbed」和「split」之間切換    | `layout toggle tabbed split` (i3 內建)    |
+| `Win + Tab`   | 在所有的畫面布局狀態切換           | `layout toggle all` (sway 內建)             |
+| `All + Tab`   | 在「splitv」和「splith」之間切換   | `layout toggle split` (sway 內建)           |
+| `All + grave` | 在「tabbed」和「stacking」之間切換 | `layout toggle tabbed stacking` (sway 內建) |
+| `Win + w`     | 在「tabbed」和「split」之間切換    | `layout toggle tabbed split` (sway 內建)    |
 
 
 > 「split」指的是「splitv」或「splith」，所以在「tabbed」和「split」之間切換，「split」會根據當時最後是「splitv」或「splith」。
@@ -40,10 +40,10 @@ grand_parent: 使用情境
 
 | 按鍵組合     | 功能                     | 執行指令                      |
 | ------------ | ------------------------ | ----------------------------- |
-| `Alt + k`    | 在所有的畫面布局狀態切換 | `layout toggle all` (i3 內建) |
-| `Alt + j`    | 在所有的畫面布局狀態切換 | `layout toggle all` (i3 內建) |
-| `Alt + Up`   | 在所有的畫面布局狀態切換 | `layout toggle all` (i3 內建) |
-| `Alt + Down` | 在所有的畫面布局狀態切換 | `layout toggle all` (i3 內建) |
+| `Alt + k`    | 在所有的畫面布局狀態切換 | `layout toggle all` (sway 內建) |
+| `Alt + j`    | 在所有的畫面布局狀態切換 | `layout toggle all` (sway 內建) |
+| `Alt + Up`   | 在所有的畫面布局狀態切換 | `layout toggle all` (sway 內建) |
+| `Alt + Down` | 在所有的畫面布局狀態切換 | `layout toggle all` (sway 內建) |
 
 
 ## 參考連結

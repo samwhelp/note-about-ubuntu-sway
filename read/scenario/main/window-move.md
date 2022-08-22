@@ -17,18 +17,18 @@ grand_parent: 使用情境
 
 | 按鍵組合          | 功能           | 執行指令              |
 | ----------------- | -------------- | ---------------------------- |
-| `Win + Shift + k` | 視窗往上方移動 | `move up 20 px` (i3 內建)    |
-| `Win + Shift + j` | 視窗往下方移動 | `move down 20 px` (i3 內建)  |
-| `Win + Shift + h` | 視窗往左方移動 | `move left 20 px` (i3 內建)  |
-| `Win + Shift + l` | 視窗往右方移動 | `move right 20 px` (i3 內建) |
+| `Win + Shift + k` | 視窗往上方移動 | `move up 20 px` (sway 內建)    |
+| `Win + Shift + j` | 視窗往下方移動 | `move down 20 px` (sway 內建)  |
+| `Win + Shift + h` | 視窗往左方移動 | `move left 20 px` (sway 內建)  |
+| `Win + Shift + l` | 視窗往右方移動 | `move right 20 px` (sway 內建) |
 
 
 | 按鍵組合              | 功能           | 執行指令                     |
 | --------------------- | -------------- | ---------------------------- |
-| `Win + Shift + Up`    | 視窗往上方移動 | `move up 20 px` (i3 內建)    |
-| `Win + Shift + Down`  | 視窗往下方移動 | `move down 20 px` (i3 內建)  |
-| `Win + Shift + Left`  | 視窗往左方移動 | `move left 20 px` (i3 內建)  |
-| `Win + Shift + Right` | 視窗往右方移動 | `move right 20 px` (i3 內建) |
+| `Win + Shift + Up`    | 視窗往上方移動 | `move up 20 px` (sway 內建)    |
+| `Win + Shift + Down`  | 視窗往下方移動 | `move down 20 px` (sway 內建)  |
+| `Win + Shift + Left`  | 視窗往左方移動 | `move left 20 px` (sway 內建)  |
+| `Win + Shift + Right` | 視窗往右方移動 | `move right 20 px` (sway 內建) |
 
 
 > 也可以使用「`Win + 滑鼠左鍵按住不放`」，移動滑鼠來拖曳視窗。

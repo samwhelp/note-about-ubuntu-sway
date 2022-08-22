@@ -14,9 +14,9 @@ grand_parent: 使用情境
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Ctrl + c`  | 重新套用設定 | `reload` (i3 內建)   |
-| `Alt + Shift + c` | 重新啟動i3   | `restart` (i3 內建)  |
-| `Alt + Shift + x` | 登出         | `"i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"` (i3 內建) |
+| `Alt + Ctrl + c`  | 重新套用設定 | `reload` (sway 內建)   |
+| `Alt + Shift + c` | 重新啟動i3   | `restart` (sway 內建)  |
+| `Alt + Shift + x` | 登出         | `"i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"` (sway 內建) |
 | `Alt + Shift + z` | 關機         | `systemctl poweroff` |
 
 
