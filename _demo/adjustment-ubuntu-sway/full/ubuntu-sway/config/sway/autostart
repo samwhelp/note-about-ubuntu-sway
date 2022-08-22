@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+echo "TODO:"
+
+##
+## ## For test ~/.config/sway/autostart
+##
+#mate-volume-control &
