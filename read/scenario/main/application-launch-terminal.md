@@ -24,3 +24,4 @@ grand_parent: 使用情境
 ## 參考連結
 
 * i3 User’s Guide / [6.1. Executing applications (exec)](https://i3wm.org/docs/userguide.html#exec)
+* $ man 5 [sway](https://manpages.ubuntu.com/manpages/jammy/en/man5/sway.5.html)
