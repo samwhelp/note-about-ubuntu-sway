@@ -73,6 +73,21 @@ sway_config_install_script () {
 	echo "##"
 	echo
 
+	echo "mkdir -p $HOME/.local/bin"
+	mkdir -p "$HOME/.local/bin"
+
+	echo "install -Dm755 ./config/bin/swayworkspace $HOME/.local/bin/swayworkspace"
+	install -Dm755 "./config/bin/swayworkspace" "$HOME/.local/bin/swayworkspace"
+}
+
+sway_config_install_script_v1 () {
+
+	echo
+	echo "##"
+	echo "## Config: sway_config_install_script"
+	echo "##"
+	echo
+
 	echo "mkdir -p $HOME/bin"
 	mkdir -p "$HOME/bin"
 
