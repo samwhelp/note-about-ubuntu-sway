@@ -25,7 +25,7 @@ grand_parent: 使用情境
 * [kjhl聚焦切換](#kjhl聚焦切換)
 
 
-* [設定片段](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Window/Keybind/Focus.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Focus.conf)
 
 
 ## 前後聚焦切換
@@ -66,7 +66,7 @@ grand_parent: 使用情境
 
 ## 父子視窗容器聚焦切換
 
-| Keybind   | Action                   | Command                  |
+| 按鍵組合   | 功能                   | 執行指令                  |
 | --------- | ------------------------ | ------------------------ |
 | `Win + p` | 聚焦到父視窗容器         | `focus parent` (sway 內建) |
 | `Win + c` | 聚焦到子視窗容器或子視窗 | `focus child` (sway 內建)  |
@@ -74,9 +74,10 @@ grand_parent: 使用情境
 
 ## 在浮動視窗或平鋪視窗之間聚焦切換
 
-| Keybind   | Action                           | Command                 |
+| 按鍵組合   | 功能                           | 執行指令                 |
 | --------- | -------------------------------- | ----------------------- |
-| `Win + v` | 在浮動視窗或平鋪視窗之間聚焦切換 | `mode_toggle` (sway 內建) |
+| `Win + v` | 在浮動視窗或平鋪視窗之間聚焦切換      | `mode_toggle` (sway 內建) |
+| `Win + m` | 在浮動視窗或平鋪視窗之間聚焦切換      | `mode_toggle` (sway 內建) |
 
 
 ## 參考連結
