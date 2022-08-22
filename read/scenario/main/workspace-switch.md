@@ -9,6 +9,10 @@ grand_parent: 使用情境
 
 # 工作空間切換
 
+* [我個人定義的個工作空間](#我個人定義的個工作空間)
+* [指定切換](#指定切換)
+* [循環切換](#循環切換)
+
 
 ## 我個人定義的個工作空間
 
@@ -23,7 +27,7 @@ grand_parent: 使用情境
 
 ## 指定切換
 
-* [設定片段](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Application/Workspace/SwitchToSpecific.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace_ByName/SwitchToSpecific.conf)
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
@@ -35,9 +39,10 @@ grand_parent: 使用情境
 
 > 若有設定「[workspace_auto_back_and_forth yes](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Workspace/Attribute/Base.conf#L37)」，下面的循環切換會失效。
 
+
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Layout/Keybind/QuickSwitch.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace_ByName/QuickSwitch.conf)
 
 | 按鍵組合  | 功能                                   | 執行指令                       |
 | --------- | -------------------------------------- | ------------------------------ |
@@ -57,6 +62,7 @@ grand_parent: 使用情境
 | ------------- | -------------------- | -------------------------- |
 | `Alt + Left`  | 切換到上一個工作空間 | `workspace prev` (sway 內建) |
 | `Alt + Right` | 切換到下一個工作空間 | `workspace next` (sway 內建) |
+
 
 ## 參考連結
 
