@@ -13,8 +13,8 @@ grand_parent: 使用情境
 
 | 按鍵組合         | 功能                 | 執行指令                                         |
 | ---------------- | -------------------- | ------------------------------------------------ |
-| `Alt + w`        | 隨機更換新的桌面圖片 | `feh --bg-fill --randomize ~/Pictures/Wallpaper` |
-| `Alt + Ctrl + w` | 更換成預設的桌面圖片 | `feh --bg-fill ~/Pictures/Wallpaper/default.jpg` |
+| `Alt + w`        | 隨機更換新的桌面圖片 | `wallpaper-select-swaybg shuf_favorite` (~/Pictures/Wallpaper/) |
+| `Alt + Ctrl + w` | 更換成預設的桌面圖片 | `wallpaper-select-swaybg default` (~/Pictures/Wallpaper/default.jpg) |
 
 
 ## 參考連結
