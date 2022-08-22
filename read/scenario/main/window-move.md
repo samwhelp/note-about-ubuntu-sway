@@ -9,10 +9,14 @@ grand_parent: 使用情境
 
 # 視窗移動
 
+* [浮動視窗移動](#浮動視窗移動)
+* [平鋪視窗移動](#平鋪視窗移動)
+
+> 如何操作「單一視窗」切換成「浮動」或「平鋪」，請參考「[單一視窗浮動或平鋪](https://samwhelp.github.io/note-about-ubuntu-sway/read/scenario/main/window-control.html#%E5%96%AE%E4%B8%80%E8%A6%96%E7%AA%97%E6%B5%AE%E5%8B%95%E6%88%96%E5%B9%B3%E9%8B%AA)」
 
 ## 浮動視窗移動
 
-* [config snippet](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Window/Keybind/Move.conf)
+* [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Move.conf)
 
 
 | 按鍵組合          | 功能           | 執行指令              |
@@ -33,13 +37,14 @@ grand_parent: 使用情境
 
 > 也可以使用「`Win + 滑鼠左鍵按住不放`」，移動滑鼠來拖曳視窗。
 
+
 ## 平鋪視窗移動
 
 一樣可以用上面的按鍵，來操作平鋪視窗
 
 舉例：向左，就會跟左方的視窗交換。
 
-但無法使用滑鼠操作交換。
+> 也可按住「鍵盤Win鍵」不放，搭配滑鼠操作交換。
 
 
 ## 參考連結
