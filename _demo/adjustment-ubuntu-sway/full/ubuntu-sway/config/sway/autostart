@@ -6,3 +6,9 @@ echo "TODO:"
 ## ## For test ~/.config/sway/autostart
 ##
 #mate-volume-control &
+
+
+##
+## ## Wallpaper
+##
+# ~/.azotebg
