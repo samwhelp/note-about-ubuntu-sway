@@ -1,12 +1,12 @@
 ---
-title: ubuntu-sway
+title: ubuntusway
 nav_order: 9010
 has_children: false
 parent: 連結
 ---
 
 
-# ubuntu-sway
+# ubuntusway
 
 
 ## Ubuntu Sway Remix
