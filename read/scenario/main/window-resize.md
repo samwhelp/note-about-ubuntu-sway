@@ -11,7 +11,7 @@ grand_parent: 使用情境
 
 ## 浮動視窗更改大小
 
-* [config snippet](https://github.com/samwhelp/note-about-i3wm/blob/gh-pages/_demo/config/i3wm-config/main/config/i3/share/gen/i3wm-gen-rc/Section/Subject/Window/Keybind/Resize.conf)
+* [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Resize.conf)
 
 
 | 按鍵組合         | 功能                                        | 執行指令                                  |
@@ -32,14 +32,15 @@ grand_parent: 使用情境
 
 > 也可以使用「`Win + 滑鼠右鍵按住不放`」，移動滑鼠來更改視窗大小。
 
+> 也可以「單用滑鼠」，移到「聚焦視窗邊框」，會出現可移動的「圖示」，就可以「按住滑鼠左鍵」拖曳更改視窗大小。
+
 
 ## 平鋪視窗更改大小
 
-一樣可以用上面的按鍵，來操作平鋪視窗更改大小
+一樣可以用上面提到的方式，來操作平鋪視窗更改大小
 
 概念上一樣是操作「視窗下方邊界」，「視窗右方邊界」。
 
-也可以使用「`Win + 滑鼠右鍵按住不放`」移動滑鼠來操作。
 
 ## 參考連結
 

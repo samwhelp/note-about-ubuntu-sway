@@ -14,6 +14,7 @@ grand_parent: 使用情境
 
 > 如何操作「單一視窗」切換成「浮動」或「平鋪」，請參考「[單一視窗浮動或平鋪](https://samwhelp.github.io/note-about-ubuntu-sway/read/scenario/main/window-control.html#%E5%96%AE%E4%B8%80%E8%A6%96%E7%AA%97%E6%B5%AE%E5%8B%95%E6%88%96%E5%B9%B3%E9%8B%AA)」
 
+
 ## 浮動視窗移動
 
 * [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Move.conf)
@@ -40,11 +41,9 @@ grand_parent: 使用情境
 
 ## 平鋪視窗移動
 
-一樣可以用上面的按鍵，來操作平鋪視窗
+一樣可以用上面提到的方式，來操作平鋪視窗
 
 舉例：向左，就會跟左方的視窗交換。
-
-> 也可按住「鍵盤Win鍵」不放，搭配滑鼠操作交換。
 
 
 ## 參考連結
