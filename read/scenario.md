@@ -9,5 +9,6 @@ has_children: true
 ## 說明
 
 | 說明 |
-| [客製](https://samwhelp.github.io/note-about-sway/read/scenario/main.html)
-| [預設](https://samwhelp.github.io/note-about-sway/read/scenario/default.html) |
+| --- |
+| [客製](https://samwhelp.github.io/note-about-ubuntu-sway/read/scenario/main.html) |
+| [預設](https://samwhelp.github.io/note-about-ubuntu-sway/read/scenario/ubuntusway.html) |

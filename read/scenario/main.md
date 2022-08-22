@@ -24,9 +24,9 @@ parent: 使用情境
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-sway/read/config/main.html)」，
+這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-ubuntu-sway/read/config/main.html)」，
 
-請參考「[我的設定檔](https://github.com/samwhelp/note-about-sway/blob/gh-pages/_demo/config/sway-config/main/config/sway/config)」。
+請參考「[我的設定檔](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/config/sway-config/main/config/sway/config)」。
 
 
 ## 系統操作
