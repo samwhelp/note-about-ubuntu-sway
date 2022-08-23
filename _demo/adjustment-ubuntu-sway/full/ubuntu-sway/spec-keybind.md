@@ -21,7 +21,7 @@
 
 * i3 User’s Guide / [6.20. Reloading/Restarting/Exiting](https://i3wm.org/docs/userguide.html#_reloading_restarting_exiting)
 * i3 User’s Guide / [6.1. Executing applications (exec)](https://i3wm.org/docs/userguide.html#exec)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/System/Base.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/System/Base.conf)
 
 | Keybind           | Action          | Command                  |
 | ----------------- | --------------- | ------------------------ |
@@ -30,7 +30,7 @@
 | `Alt + Shift + z` | Shutdown        | `wlogout -p layer-shell` |
 
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/System/Menu.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/System/Menu.conf)
 
 | Keybind           | Action          | Command                  |
 | ----------------- | --------------- | ------------------------ |
@@ -40,7 +40,7 @@
 ## Launch Terminal
 
 * i3 User’s Guide / [6.1. Executing applications (exec)](https://i3wm.org/docs/userguide.html#exec)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Application/Terminal.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Application/Terminal.conf)
 
 | Keybind           | Action          | Command          |
 | ----------------- | --------------- | ---------------  |
@@ -53,7 +53,7 @@
 
 ## Launch Wofi
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Application/Wofi.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Application/Wofi.conf)
 
 | Keybind           | Action      | Command                         |
 | ----------------- | ----------- | ------------------------------- |
@@ -63,7 +63,7 @@
 
 ## Launch Favorite App
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Application/Favorite.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Application/Favorite.conf)
 
 | Keybind           | Action              | Command      |
 | ----------------- | ------------------- | ------------ |
@@ -78,7 +78,7 @@
 * [azote](https://github.com/nwg-piotr/azote)
 * [swaybg](https://github.com/swaywm/swaybg)
 * [wallpaper-select-sway](https://github.com/samwhelp/note-about-fzf/tree/gh-pages/_demo/project/wallpaper-select/wallpaper-select-sway)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Wallpaper/Select.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Wallpaper/Select.conf)
 
 | Keybind          | Action            | Command                                          |
 | ---------------- | ----------------- | ------------------------------------------------ |
@@ -88,7 +88,7 @@
 
 ## Screenshot
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Screenshot/Base.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Screenshot/Base.conf)
 
 | Keybind       | Action                   | Command    |
 | ------------- | ------------------------ | ---------- |
@@ -98,7 +98,7 @@
 
 ## Volume Control
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Volume/Base.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Volume/Base.conf)
 
 | Keybind           | Action                 | Command                                     |
 | ----------------- | ---------------------- | ------------------------------------------- |
@@ -122,7 +122,7 @@
 
 ### Window Close
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Window/Close.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Close.conf)
 
 | Keybind           | Action       | Command             |
 | ----------------- | ------------ | ------------------- |
@@ -132,7 +132,7 @@
 
 ### Window Fullscreen
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Window/FullScreen.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/FullScreen.conf)
 
 | Keybind   | Action            | Command             |
 | --------- | ----------------- | ------------------- |
@@ -142,7 +142,7 @@
 ### Window FloatingToggle
 
 * [reference](https://i3wm.org/docs/userguide.html#manipulating_layout)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Window/FloatingToggle.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/FloatingToggle.conf)
 
 | Keybind       | Action                          | Command                        |
 | ------------- | ------------------------------- | ------------------------------ |
@@ -155,7 +155,7 @@
 ### Window Move
 
 * [reference](https://i3wm.org/docs/userguide.html#_moving_containers)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Window/Move.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Move.conf)
 
 | Keybind           | Action               | Command                         |
 | ----------------- | -------------------- | ------------------------------- |
@@ -176,7 +176,7 @@
 ### Window Resize
 
 * [reference](https://i3wm.org/docs/userguide.html#resizingconfig)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Window/Resize.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Resize.conf)
 
 | Keybind          | Action                                 | Command                                   |
 | ---------------- | -------------------------------------- | ----------------------------------------- |
@@ -197,7 +197,7 @@
 ### Window Focus
 
 * [reference](https://i3wm.org/docs/userguide.html#_focusing_moving_containers)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Window/Focus.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Focus.conf)
 
 
 | Keybind   | Action                | Command                   |
@@ -242,7 +242,7 @@
 ### Window Split Orientation
 
 * [reference](https://i3wm.org/docs/userguide.html#_splitting_containers)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Layout/Split.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Layout/Split.conf)
 
 | Keybind   | Action                                                  | Command                         |
 | --------- | ------------------------------------------------------- | ------------------------------- |
@@ -257,7 +257,7 @@
 ### Layout toggle
 
 * [reference](https://i3wm.org/docs/userguide.html#manipulating_layout)
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Layout/QuickSwitch.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Layout/QuickSwitch.conf)
 
 
 | Keybind       | Action                                   | Command                                      |
@@ -269,7 +269,7 @@
 
 > grave means `
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Layout/SwitchToSpecific.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Layout/SwitchToSpecific.conf)
 
 | Keybind      | Action            | Command                          |
 | ------------ | ----------------- | -------------------------------- |
@@ -283,7 +283,7 @@
 
 ### Workspace Switch
 
-* [config snippet](config/i3/gen/i3wm-gen-rc/Section/Subject/Workspace/Keybind/SwitchToSpecific.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace/SwitchToSpecific.conf)
 
 | Workspace | Title |
 | --------- | ----- |
@@ -302,7 +302,7 @@
 | `Alt + 5` | Switch to Workspace 5 (Misc) | `workspace number 5` (sway builtin) |
 
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Workspace/QuickSwitch.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace/QuickSwitch.conf)
 
 | Keybind   | Action                       | Command                                 |
 | --------- | ---------------------------- | --------------------------------------- |
@@ -326,7 +326,7 @@
 
 ## Window Move to Workspace
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Workspace/MoveToWorkspace.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace/MoveToWorkspace.conf)
 
 
 | Keybind   | Action                                       | Command                                             |
@@ -341,7 +341,7 @@
 
 ## Scratchpad
 
-* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Scratchpad/Base.conf)
+* [config snippet](config/sway/section/common/keybind/sway-keybind-main/keybind.m/Scratchpad/Base.conf)
 
 | Keybind           | Action       | Command             |
 | ----------------- | ------------ | ------------------- |
