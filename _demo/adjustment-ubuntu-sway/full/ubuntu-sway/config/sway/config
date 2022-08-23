@@ -6,6 +6,8 @@
 
 ##
 ## Default config for sway
+## 
+## /etc/sway/config
 ##
 ## Copy this to ~/.config/sway/config and edit it to your liking.
 ##
@@ -28,6 +30,7 @@
 ### Head: Profile / Select
 ##
 
+#set $use_profile sway-default
 #set $use_profile ubuntu-sway
 set $use_profile sway-profile-main
 
