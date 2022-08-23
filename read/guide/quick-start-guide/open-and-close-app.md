@@ -1,7 +1,7 @@
 ---
 title: 如何開啟和關閉應用程式
 nav_order: 4010
-has_children: true
+has_children: false
 parent: 快速入門指南
 ---
 
