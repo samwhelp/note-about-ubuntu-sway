@@ -14,6 +14,7 @@
 * [Window Control](#window-control)
 * [Layout Control](#layout-control)
 * [Workspace Control](#workspace-control)
+* [Scratchpad](#scratchpad)
 
 
 ## System Control
@@ -335,3 +336,14 @@
 | `Win + 3` | Window(Container) Move to Workspace 3 (Web)  | `move container to workspace number 3` (sway builtin) |
 | `Win + 4` | Window(Container) Move to Workspace 4 (Term) | `move container to workspace number 4` (sway builtin) |
 | `Win + 5` | Window(Container) Move to Workspace 5 (Misc) | `move container to workspace number 5` (sway builtin) |
+
+
+
+## Scratchpad
+
+* [config snippet](config/sway/common/keybind/sway-keybind-main/keybind.m/Scratchpad/Base.conf)
+
+| Keybind           | Action       | Command             |
+| ----------------- | ------------ | ------------------- |
+| `Win + b`         | Scratchpad Show or Hide | `scratchpad show` (sway builtin) |
+| `Win + Shift + b` | Window(Container) Move to Scratchpad | `move scratchpad` (sway builtin) |

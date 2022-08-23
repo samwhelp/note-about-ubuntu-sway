@@ -8,7 +8,7 @@
 ## Win + -
 bindsym Mod4+minus scratchpad show
 
-## Window move to scratchpad
+## Window(Container) Move to Scratchpad
 ## Win + Shift + -
 bindsym Mod4+Shift+minus move scratchpad
 
