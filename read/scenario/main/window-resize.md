@@ -52,7 +52,7 @@ grand_parent: 使用情境
 
 | 按鍵組合          | 功能           | 執行指令              |
 | ----------------- | -------------- | ---------------------------- |
-| `Win + r` | 切換到「開始移動模式」 | `mode "resize"` (sway 內建)    |
+| `Win + r` | 切換到「開始更改大小模式」 | `mode "resize"` (sway 內建)    |
 
 
 接著可以按下，下面三種的其中一種按鍵組合，來移動「視窗(容器)」。
@@ -85,9 +85,9 @@ grand_parent: 使用情境
 
 | 按鍵組合              | 功能           | 執行指令                     |
 | --------------------- | -------------- | ---------------------------- |
-| `Escape`    | 從「開始移動模式」回到「一般模式」 | `bindsym Escape mode "default"` (sway 內建)    |
-| `Return`    | 從「開始移動模式」回到「一般模式」 | `bindsym Return mode "default"` (sway 內建)    |
-| `Win + r`    | 從「開始移動模式」回到「一般模式」 | `bindsym Mod4+e mode "default"` (sway 內建)    |
+| `Escape`    | 從「開始更改大小模式」回到「一般模式」 | `bindsym Escape mode "default"` (sway 內建)    |
+| `Return`    | 從「開始更改大小模式」回到「一般模式」 | `bindsym Return mode "default"` (sway 內建)    |
+| `Win + r`    | 從「開始更改大小模式」回到「一般模式」 | `bindsym Mod4+e mode "default"` (sway 內建)    |
 
 
 ## 參考連結
