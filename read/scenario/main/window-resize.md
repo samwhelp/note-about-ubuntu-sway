@@ -80,6 +80,8 @@ grand_parent: 使用情境
 | `a` | 移動視窗右(東)方邊界，往左方移動 (寬度減少) | `resize shrink width 20 px` (i3 builtin)  |
 | `s` | 移動視窗右(東)方邊界，往右方移動 (寬度增加) | `resize grow width 20 px` (i3 builtin)    |
 
+> grave 指的是 `
+
 
 接著可以按下，下面三種的其中一種按鍵組合，回到「一般模式」。
 

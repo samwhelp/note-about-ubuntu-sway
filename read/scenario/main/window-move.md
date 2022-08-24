@@ -82,6 +82,8 @@ grand_parent: 使用情境
 | `a` | 視窗往左方移動 | `move left 20 px` (sway 內建)  |
 | `s` | 視窗往右方移動 | `move right 20 px` (sway 內建) |
 
+> grave 指的是 `
+
 
 接著可以按下，下面三種的其中一種按鍵組合，回到「一般模式」。
 
