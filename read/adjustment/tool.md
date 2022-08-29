@@ -13,5 +13,5 @@ parent: 微調
 
 | Panel | 微調腳本 |
 | --- | --- |
-| [waybar](https://samwhelp.github.io/note-about-ubuntu/read/adjustment/tool/waybar.html) | `TODO:` |
+| [waybar](https://samwhelp.github.io/note-about-ubuntu-sway/read/adjustment/tool/waybar.html) | `TODO:` |
 
