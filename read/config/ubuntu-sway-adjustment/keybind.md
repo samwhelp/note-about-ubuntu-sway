@@ -35,67 +35,67 @@ grand_parent: 設定
 
 | 主題 |
 | --- |
-| [系統操作](main/system-control) |
+| [系統操作](keybind/system-control) |
 
 
 ## 開啟應用程式
 
 | 主題 |
 | --- |
-| [開啟 Terminal](main/application-launch-terminal) |
-| [開啟 Wofi](main/application-launch-wofi) |
-| [開啟常用的應用程式](main/application-launch-favorite) |
+| [開啟 Terminal](keybind/application-launch-terminal) |
+| [開啟 Wofi](keybind/application-launch-wofi) |
+| [開啟常用的應用程式](keybind/application-launch-favorite) |
 
 
 ## 視窗操作
 
 | 主題 |
 | --- |
-| [視窗基本操作](main/window-control) |
-| [視窗容器聚焦切換](main/window-focus) |
-| [視窗移動操作](main/window-move) |
-| [視窗更改大小](main/window-resize) |
-| [視窗分割導向](main/window-split) |
+| [視窗基本操作](keybind/window-control) |
+| [視窗容器聚焦切換](keybind/window-focus) |
+| [視窗移動操作](keybind/window-move) |
+| [視窗更改大小](keybind/window-resize) |
+| [視窗分割導向](keybind/window-split) |
 
 
 ## 畫面佈局
 
 | 主題 |
 | --- |
-| [畫面佈局切換](main/layout-toggle) |
+| [畫面佈局切換](keybind/layout-toggle) |
 
 
 ## 工作空間
 
 | 主題 |
 | --- |
-| [工作空間切換](main/workspace-switch) |
-| [視窗移到指定工作空間](main/window-move-to-workspace) |
+| [工作空間切換](keybind/workspace-switch) |
+| [視窗移到指定工作空間](keybind/window-move-to-workspace) |
 
 
 ## Scratchpad
 
 | 主題 |
 | --- |
-| [Scratchpad](main/scratchpad) |
+| [Scratchpad](keybind/scratchpad) |
 
 
 ## 桌面圖片
 
 | 主題 |
 | --- |
-| [桌面圖片](main/wallpaper-control) |
+| [桌面圖片](keybind/wallpaper-control) |
 
 
 ## 螢幕截圖
 
 | 主題 |
 | --- |
-| [螢幕截圖](main/screenshot) |
+| [螢幕截圖](keybind/screenshot) |
 
 
 ## 音量控制
 
 | 主題 |
 | --- |
-| [音量控制](main/volume-control) |
+| [音量控制](keybind/volume-control) |
