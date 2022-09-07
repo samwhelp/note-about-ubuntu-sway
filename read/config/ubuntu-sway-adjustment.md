@@ -5,6 +5,7 @@ has_children: true
 parent: 設定
 ---
 
+
 # ubuntu-sway-adjustment
 
 
