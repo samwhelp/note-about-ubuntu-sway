@@ -1,11 +1,11 @@
 ---
-title: 我的設定
+title: ubuntu-sway-adjustment
 nav_order: 2020
 has_children: false
 parent: 設定
 ---
 
-# 我的設定
+# ubuntu-sway-adjustment
 
 ## 設定檔專案
 
