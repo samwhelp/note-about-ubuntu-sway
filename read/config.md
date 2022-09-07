@@ -11,8 +11,8 @@ has_children: true
 
 | 設定檔路徑 |
 | --- |
-| ~/.config/i3/config |
-| ~/.config/i3/autostart |
+| ~/.config/sway/config |
+| ~/.config/sway/autostart |
 
 
 ## 設定檔範例
