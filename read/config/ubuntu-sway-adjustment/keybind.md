@@ -26,7 +26,7 @@ grand_parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-ubuntu-sway/read/config/main.html)」，
+這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-ubuntu-sway/read/config/ubuntu-sway-adjustment.html)」，
 
 請參考「[我的設定檔](https://github.com/samwhelp/note-about-ubuntu-sway/tree/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway)」。
 
