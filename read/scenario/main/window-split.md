@@ -13,7 +13,7 @@ grand_parent: 使用情境
 
 ## 視窗分割導向
 
-* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Layout/Split.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Layout/Split.conf)
 
 | 按鍵組合  | 功能                                           | 執行指令                     |
 | --------- | ---------------------------------------------- | ---------------------------- |

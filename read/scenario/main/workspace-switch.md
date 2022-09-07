@@ -27,7 +27,7 @@ grand_parent: 使用情境
 
 ## 指定切換
 
-* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace_ByName/SwitchToSpecific.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace_ByName/SwitchToSpecific.conf)
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
@@ -42,7 +42,7 @@ grand_parent: 使用情境
 
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace_ByName/QuickSwitch.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Workspace_ByName/QuickSwitch.conf)
 
 | 按鍵組合  | 功能                                   | 執行指令                       |
 | --------- | -------------------------------------- | ------------------------------ |

@@ -11,7 +11,7 @@ grand_parent: 使用情境
 
 ## 浮動視窗更改大小
 
-* [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Resize.conf)
+* [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Resize.conf)
 
 
 | 按鍵組合         | 功能                                        | 執行指令                                  |
@@ -44,7 +44,7 @@ grand_parent: 使用情境
 
 ## 開始更改大小
 
-* [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/BeginResize.conf)
+* [config snippet](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/BeginResize.conf)
 
 在「**浮動視窗**」或「**平鋪視窗**」狀態
 

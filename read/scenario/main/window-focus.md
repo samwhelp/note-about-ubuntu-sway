@@ -27,7 +27,7 @@ grand_parent: 使用情境
 * [在浮動視窗或平鋪視窗之間聚焦切換](#在浮動視窗或平鋪視窗之間聚焦切換)
 
 
-* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment-ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Focus.conf)
+* [設定片段](https://github.com/samwhelp/note-about-ubuntu-sway/blob/gh-pages/_demo/adjustment/ubuntu-sway/full/ubuntu-sway/config/sway/section/common/keybind/sway-keybind-main/keybind.m/Window/Focus.conf)
 
 
 ## 前後聚焦切換
