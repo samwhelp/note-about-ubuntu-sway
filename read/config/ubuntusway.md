@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Sway
-nav_order: 5021
+nav_order: 2020
 has_children: false
 parent: 設定
 ---

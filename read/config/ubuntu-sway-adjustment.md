@@ -1,6 +1,6 @@
 ---
 title: ubuntu-sway-adjustment
-nav_order: 2020
+nav_order: 2021
 has_children: true
 parent: 設定
 ---
