@@ -13,4 +13,4 @@ parent: 連結
 
 * [Ubuntu Sway Remix](https://ubuntusway.com/)
 * GitHub / [Ubuntu-Sway](https://github.com/Ubuntu-Sway)
-* [https://downloads.ubuntusway.com/](https://downloads.ubuntusway.com/)
+* [Download](https://downloads.ubuntusway.com/)
