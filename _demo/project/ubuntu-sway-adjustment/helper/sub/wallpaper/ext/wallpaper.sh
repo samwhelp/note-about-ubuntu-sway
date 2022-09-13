@@ -41,16 +41,16 @@ mod_wallpaper_config_install () {
 	util_error_echo '##'
 	util_error_echo
 
-	util_error_echo "mkdir -p ${HOME}/.config/wallpaper/Wallpaper"
-	mkdir -p "${HOME}/.config/wallpaper/Wallpaper"
+	#util_error_echo "mkdir -p ${HOME}/.config/wallpaper/Wallpaper"
+	#mkdir -p "${HOME}/.config/wallpaper/Wallpaper"
 
 	#util_error_echo "install -Dm644 ${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/wallpaper.conf ${HOME}/.config/wallpaper/wallpaper.conf"
 	#install -Dm644 "${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/wallpaper.conf" "${HOME}/.config/wallpaper/wallpaper.conf"
 
 
 
-	util_error_echo "cp -rf ${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/. ${HOME}/.config/wallpaper/"
-	cp -rf "${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/." "${HOME}/.config/wallpaper/"
+	#util_error_echo "cp -rf ${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/. ${HOME}/.config/wallpaper/"
+	#cp -rf "${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/." "${HOME}/.config/wallpaper/"
 
 	#util_error_echo "cp -rfv ${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/. ${HOME}/.config/wallpaper/"
 	#cp -rfv "${THE_OVERLAY_DIR_PATH}/etc/skel/.config/wallpaper/." "${HOME}/.config/wallpaper/"

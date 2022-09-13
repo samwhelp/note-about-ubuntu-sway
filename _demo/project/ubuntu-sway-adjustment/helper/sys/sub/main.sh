@@ -24,7 +24,6 @@ mod_main_package_install () {
 mod_main_package_list_find_for_install () {
 
 	mod_sway_package_list_find_for_install
-	mod_style_package_list_find_for_install
 	mod_sakura_package_list_find_for_install
 	mod_pcmanfm_qt_package_list_find_for_install
 	mod_pcmanfm_package_list_find_for_install
@@ -37,6 +36,11 @@ mod_main_package_list_find_for_install () {
 	mod_xdg_package_list_find_for_install
 	mod_tool_package_list_find_for_install
 	mod_helper_package_list_find_for_install
+	mod_wallpaper_package_list_find_for_install
+
+
+	mod_style_package_list_find_for_install
+
 }
 
 ##
@@ -60,7 +64,6 @@ mod_main_config_install () {
 	util_error_echo
 
 	mod_sway_config_install
-	mod_style_config_install
 	mod_sakura_config_install
 	mod_pcmanfm_qt_config_install
 	mod_pcmanfm_config_install
@@ -73,6 +76,10 @@ mod_main_config_install () {
 	mod_xdg_config_install
 	mod_tool_config_install
 	mod_helper_config_install
+	mod_wallpaper_config_install
+
+
+	mod_style_config_install
 
 
 	util_error_echo
@@ -100,7 +107,6 @@ mod_main_asset_install () {
 
 
 	mod_sway_asset_install
-	mod_style_asset_install
 	mod_sakura_asset_install
 	mod_pcmanfm_qt_asset_install
 	mod_pcmanfm_asset_install
@@ -113,7 +119,10 @@ mod_main_asset_install () {
 	mod_xdg_asset_install
 	mod_tool_asset_install
 	mod_helper_asset_install
+	mod_wallpaper_asset_install
 
+
+	mod_style_asset_install
 
 	util_error_echo
 
