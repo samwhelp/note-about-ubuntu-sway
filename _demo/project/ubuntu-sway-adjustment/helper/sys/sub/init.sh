@@ -30,6 +30,7 @@ source "${THE_SUB_DIR_PATH}/sway/ext/init.sh"
 source "${THE_SUB_DIR_PATH}/sakura/ext/init.sh"
 source "${THE_SUB_DIR_PATH}/pcmanfm-qt/ext/init.sh"
 source "${THE_SUB_DIR_PATH}/pcmanfm/ext/init.sh"
+source "${THE_SUB_DIR_PATH}/mousepad/ext/init.sh"
 source "${THE_SUB_DIR_PATH}/viewnior/ext/init.sh"
 source "${THE_SUB_DIR_PATH}/mpv/ext/init.sh"
 
