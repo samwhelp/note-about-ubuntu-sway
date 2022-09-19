@@ -12,4 +12,4 @@ grand_parent: 專案
 
 ## 專案連結
 
-* [ubuntu-adjust-ctrl](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/project/ubuntu-sway-adjustment/tool/ubuntu-sway-adjust-ctrl)
+* [ubuntu-sway-adjust-ctrl](https://github.com/samwhelp/note-about-ubuntu-sway/tree/gh-pages/_demo/project/ubuntu-sway-adjustment/tool/ubuntu-sway-adjust-ctrl)
